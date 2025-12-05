@@ -148,3 +148,4 @@ plt.ylabel("Median Annual Wages")
 plt.title("Median Wages by Year for each Province")
 plt.legend()
 plt.show()
+final_df["NOC_TITLE"]
